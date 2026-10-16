@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+outputs/
+prepared_training_data/
+.pytest_cache/
+/checkpoints/
+/data/
+/examples/

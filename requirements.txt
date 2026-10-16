@@ -1,0 +1,11 @@
+numpy==2.4.2
+pandas==2.2.3
+geopandas==1.0.1
+shapely==2.0.7
+scipy==1.17.0
+matplotlib==3.10.8
+seaborn==0.13.2
+Pillow==12.1.0
+torch==2.5.1
+torchvision==0.20.1
+mamba-ssm==2.2.4
