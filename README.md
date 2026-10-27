@@ -37,6 +37,10 @@ The fused representation is quantised into a binary feature code and combined wi
 | Evaluation | `evaluation/` provides geometric-attack, deletion/cropping and identity-discrimination evaluations |
 | Checks and illustrations | `tests/` contains metric checks and a copyright-image evaluation shortcut; `docs/assets/` contains method diagrams |
 
+## Data
+
+The dataset is available on [Figshare](https://figshare.com/s/224d64446baa38735733). Download and extract the data, then set the input paths in the training or evaluation commands to match your local files. Keep all component files of each Shapefile together.
+
 ## Environment
 
 Use Python 3.11 on Linux with an NVIDIA GPU. The dependencies include PyTorch 2.5.1, torchvision 0.20.1 and Mamba-SSM 2.2.4. From the repository root:
